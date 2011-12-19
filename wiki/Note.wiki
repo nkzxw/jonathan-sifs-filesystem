@@ -20,8 +20,3 @@
    本代码暂时不再更新。原因：提建议的太少，失去了本代码开源的意义
 
    新的内容将与一些研究该项目的朋友共享，交流和探讨 
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
